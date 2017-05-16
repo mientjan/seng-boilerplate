@@ -9,12 +9,9 @@
     "noImplicitAny": false,
     "removeComments": false,
     "sourceMap": false,
-    "inlineSourceMap": false,
-    "outDir": "./"
+    "inlineSourceMap": true
   },
   "files": [
-    "./definition/index.d.ts",
-    "./src/index.ts",
-    "./src/lib/Dummy.ts"
+    "definition/index.d.ts"
   ]
 }
